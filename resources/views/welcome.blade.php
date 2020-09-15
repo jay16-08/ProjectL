@@ -43,25 +43,25 @@
             <div class="container">
                 <div class="row">
 
-                    <div class="col-6">
+                    <!-- <div class="col-6">
                         <div class="top-header-content">
                             <a href="#"><i class="icon_phone"></i> <span>(123) 456-789-1230</span></a>
                             <a href="#"><i class="icon_mail"></i> <span>info.colorlib@gmail.com</span></a>
                         </div>
                     </div>
-
-                    <div class="col-6">
+ -->
+                    <!-- <div class="col-6">
                         <div class="top-header-content">
                             <!-- Top Social Area -->
-                            <div class="top-social-area ml-auto">
+                            <!-- <div class="top-social-area ml-auto">
                                 <a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a>
                                 <a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a>
                                 <a href="#"><i class="fa fa-tripadvisor" aria-hidden="true"></i></a>
                                 <a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a>
                             </div>
                         </div>
-                    </div>
-
+                    </div> -->
+ -->
                 </div>
             </div>
         </div>
@@ -75,7 +75,8 @@
                     <nav class="classy-navbar justify-content-between" id="robertoNav">
 
                         <!-- Logo -->
-                        <a class="nav-brand" href="index.html"><img src="./img/core-img/logo.png" alt=""></a>
+                        <h1>Hotelogix</h1>
+                        <!-- <a class="nav-brand" href="index.html"><img src="./img/core-img/logo.png" alt=""></a> -->
 
                         <!-- Navbar Toggler -->
                         <div class="classy-navbar-toggler">
@@ -94,26 +95,8 @@
                                     <li class="active"><a href="./index.html">Home</a></li>
                                     <li><a href="./room.html">Rooms</a></li>
                                     <li><a href="./about.html">About Us</a></li>
+                                    <li><a href="./images.html">Images</a></li>
                                     
-                                    <li><a href="#">Pages</a>
-                                        <ul class="dropdown">
-                                            <li><a href="./index.html">- Home</a></li>
-                                            <li><a href="./room.html">- Rooms</a></li>
-                                            <li><a href="./single-room.html">- Single Rooms</a></li>
-                                            <li><a href="./about.html">- About Us</a></li>
-                                            <li><a href="./blog.html">- Blog</a></li>
-                                            <li><a href="./single-blog.html">- Single Blog</a></li>
-                                            <li><a href="./contact.html">- Contact</a></li>
-                                            <li><a href="#">- Dropdown</a>
-                                                <ul class="dropdown">
-                                                    <li><a href="#">- Dropdown Item</a></li>
-                                                    <li><a href="#">- Dropdown Item</a></li>
-                                                    <li><a href="#">- Dropdown Item</a></li>
-                                                    <li><a href="#">- Dropdown Item</a></li>
-                                                </ul>
-                                            </li>
-                                        </ul>
-                                    </li>
                                     <li><a href="./admin">Login</a>
                                     <ul class="dropdown">
                                         <li><a href="./register">Register </a></li>
@@ -141,33 +124,7 @@
     </header>
 
         <!-- Top Header Area Start -->
-        <div class="top-header-area">
-            <div class="container">
-                <div class="row">
-
-                    <div class="col-6">
-                        <div class="top-header-content">
-                            <a href="#"><i class="icon_phone"></i> <span>(123) 456-789-1230</span></a>
-                            <a href="#"><i class="icon_mail"></i> <span>info.colorlib@gmail.com</span></a>
-                        </div>
-                    </div>
-
-                    <div class="col-6">
-                        <div class="top-header-content">
-                            <!-- Top Social Area -->
-                            <div class="top-social-area ml-auto">
-                                <a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a>
-                                <a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a>
-                                <a href="#"><i class="fa fa-tripadvisor" aria-hidden="true"></i></a>
-                                <a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a>
-                            </div>
-                        </div>
-                    </div>
-
-                </div>
-            </div>
-        </div>
-
+       
         <!-- Top Header Area End -->
 
         <!-- Main Header Start -->
@@ -336,89 +293,11 @@
     <!-- About Us Area End -->
 
     <!-- Service Area Start -->
-    <div class="roberto-service-area">
-        <div class="container">
-            <div class="row">
-                <div class="col-12">
-                    <div class="service-content d-flex align-items-center justify-content-between">
-                        <!-- Single Service Area -->
-                        <div class="single-service--area mb-100 wow fadeInUp" data-wow-delay="100ms">
-                            <img src="img/core-img/icon-1.png" alt="">
-                            <h5>Transportion</h5>
-                        </div>
-
-                        <!-- Single Service Area -->
-                        <div class="single-service--area mb-100 wow fadeInUp" data-wow-delay="300ms">
-                            <img src="img/core-img/icon-2.png" alt="">
-                            <h5>Reiseservice</h5>
-                        </div>
-
-                        <!-- Single Service Area -->
-                        <div class="single-service--area mb-100 wow fadeInUp" data-wow-delay="500ms">
-                            <img src="img/core-img/icon-3.png" alt="">
-                            <h5>Spa Relaxtion</h5>
-                        </div>
-
-                        <!-- Single Service Area -->
-                        <div class="single-service--area mb-100 wow fadeInUp" data-wow-delay="700ms">
-                            <img src="img/core-img/icon-4.png" alt="">
-                            <h5>Restaurant</h5>
-                        </div>
-
-                        <!-- Single Service Area -->
-                        <div class="single-service--area mb-100 wow fadeInUp" data-wow-delay="900ms">
-                            <img src="img/core-img/icon-1.png" alt="">
-                            <h5>Bar &amp; Drink</h5>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
+    
     <!-- Service Area End -->
 
     <!-- Our Room Area Start -->
-    <section class="roberto-rooms-area">
-        <div class="rooms-slides owl-carousel">
-            <!-- Single Room Slide -->
-            <div class="single-room-slide d-flex align-items-center">
-                <!-- Thumbnail -->
-                <div class="room-thumbnail h-100 bg-img" style="background-image: url(img/bg-img/16.jpg);"></div>
-
-                <!-- Content -->
-                <div class="room-content">
-                    <h2 data-animation="fadeInUp" data-delay="100ms">Premium King Room</h2>
-                    <h3 data-animation="fadeInUp" data-delay="300ms">400$ <span>/ Day</span></h3>
-                    <ul class="room-feature" data-animation="fadeInUp" data-delay="500ms">
-                        <li><span><i class="fa fa-check"></i> Size</span> <span>: 30 ft</span></li>
-                        <li><span><i class="fa fa-check"></i> Capacity</span> <span>: Max persion 5</span></li>
-                        <li><span><i class="fa fa-check"></i> Bed</span> <span>: King Beds</span></li>
-                        <li><span><i class="fa fa-check"></i> Services</span> <span>: Wifi, Television, Bathroom</span></li>
-                    </ul>
-                    <a href="#" class="btn roberto-btn mt-30" data-animation="fadeInUp" data-delay="700ms">View Details</a>
-                </div>
-            </div>
-
-            <!-- Single Room Slide -->
-            <div class="single-room-slide d-flex align-items-center">
-                <!-- Thumbnail -->
-                <div class="room-thumbnail h-100 bg-img" style="background-image: url(img/bg-img/17.jpg);"></div>
-
-                <!-- Content -->
-                <div class="room-content">
-                    <h2 data-animation="fadeInUp" data-delay="100ms">Best King Room</h2>
-                    <h3 data-animation="fadeInUp" data-delay="300ms">125$ <span>/ Day</span></h3>
-                    <ul class="room-feature" data-animation="fadeInUp" data-delay="500ms">
-                        <li><span><i class="fa fa-check"></i> Size</span> <span>: 30 ft</span></li>
-                        <li><span><i class="fa fa-check"></i> Capacity</span> <span>: Max persion 5</span></li>
-                        <li><span><i class="fa fa-check"></i> Bed</span> <span>: King Beds</span></li>
-                        <li><span><i class="fa fa-check"></i> Services</span> <span>: Wifi, Television, Bathroom</span></li>
-                    </ul>
-                    <a href="#" class="btn roberto-btn mt-30" data-animation="fadeInUp" data-delay="700ms">View Details</a>
-                </div>
-            </div>
-        </div>
-    </section>
+    
     <!-- Our Room Area End -->
 
     <!-- Testimonials Area Start -->
@@ -509,111 +388,6 @@
     <!-- Testimonials Area End -->
 
     <!-- Projects Area Start -->
-    <section class="roberto-project-area">
-        <!-- Projects Slide -->
-        <div class="projects-slides owl-carousel">
-            <!-- Single Project Slide -->
-            <div class="single-project-slide active bg-img" style="background-image: url(img/bg-img/5.jpg);">
-                <!-- Project Text -->
-                <div class="project-content">
-                    <div class="text">
-                        <h6>Entertaiment</h6>
-                        <h5>Racing Bike</h5>
-                    </div>
-                </div>
-                <!-- Hover Effects -->
-                <div class="hover-effects">
-                    <div class="text">
-                        <h6>Entertaiment</h6>
-                        <h5>Racing Bike</h5>
-                        <p>I focus a lot on helping the first time or inexperienced traveler head out prepared and confident...</p>
-                    </div>
-                    <a href="#" class="btn project-btn">Discover Now <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
-                </div>
-            </div>
-
-            <!-- Single Project Slide -->
-            <div class="single-project-slide bg-img" style="background-image: url(img/bg-img/6.jpg);">
-                <!-- Project Text -->
-                <div class="project-content">
-                    <div class="text">
-                        <h6>Entertaiment</h6>
-                        <h5>Racing Bike</h5>
-                    </div>
-                </div>
-                <!-- Hover Effects -->
-                <div class="hover-effects">
-                    <div class="text">
-                        <h6>Entertaiment</h6>
-                        <h5>Racing Bike</h5>
-                        <p>I focus a lot on helping the first time or inexperienced traveler head out prepared and confident...</p>
-                    </div>
-                    <a href="#" class="btn project-btn">Discover Now <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
-                </div>
-            </div>
-
-            <!-- Single Project Slide -->
-            <div class="single-project-slide bg-img" style="background-image: url(img/bg-img/7.jpg);">
-                <!-- Project Text -->
-                <div class="project-content">
-                    <div class="text">
-                        <h6>Entertaiment</h6>
-                        <h5>Racing Bike</h5>
-                    </div>
-                </div>
-                <!-- Hover Effects -->
-                <div class="hover-effects">
-                    <div class="text">
-                        <h6>Entertaiment</h6>
-                        <h5>Racing Bike</h5>
-                        <p>I focus a lot on helping the first time or inexperienced traveler head out prepared and confident...</p>
-                    </div>
-                    <a href="#" class="btn project-btn">Discover Now <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
-                </div>
-            </div>
-
-            <!-- Single Project Slide -->
-            <div class="single-project-slide bg-img" style="background-image: url(img/bg-img/8.jpg);">
-                <!-- Project Text -->
-                <div class="project-content">
-                    <div class="text">
-                        <h6>Entertaiment</h6>
-                        <h5>Racing Bike</h5>
-                    </div>
-                </div>
-                <!-- Hover Effects -->
-                <div class="hover-effects">
-                    <div class="text">
-                        <h6>Entertaiment</h6>
-                        <h5>Racing Bike</h5>
-                        <p>I focus a lot on helping the first time or inexperienced traveler head out prepared and confident...</p>
-                    </div>
-                    <a href="#" class="btn project-btn">Discover Now <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
-                </div>
-            </div>
-
-            <!-- Single Project Slide -->
-            <div class="single-project-slide bg-img" style="background-image: url(img/bg-img/9.jpg);">
-                <!-- Project Text -->
-                <div class="project-content">
-                    <div class="text">
-                        <h6>Entertaiment</h6>
-                        <h5>Racing Bike</h5>
-                    </div>
-                </div>
-                <!-- Hover Effects -->
-                <div class="hover-effects">
-                    <div class="text">
-                        <h6>Entertaiment</h6>
-                        <h5>Racing Bike</h5>
-                        <p>I focus a lot on helping the first time or inexperienced traveler head out prepared and confident...</p>
-                    </div>
-                    <a href="#" class="btn project-btn">Discover Now <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- Projects Area End -->
 
     <!-- Blog Area Start -->
     <section class="roberto-blog-area section-padding-100-0">
@@ -690,16 +464,17 @@
                     <div class="col-12 col-md-7">
                         <div class="cta-text mb-50">
                             <h2>Contact us now!</h2>
-                            <h6>Contact (+12) 345-678-9999 to book directly or for advice</h6>
+                            <h6>Contact (+ 91) 9876543210  to book directly or for advice</h6>
                         </div>
                     </div>
                     <div class="col-12 col-md-5 text-right">
-                        <a href="#" class="btn roberto-btn mb-50">Contact Now</a>
+                        <a href="Contact.html" class="btn roberto-btn mb-50">Contact Now</a>
                     </div>
                 </div>
             </div>
         </div>
     </section>
+    
     <!-- Call To Action Area End -->
 
     <!-- Partner Area Start -->
@@ -709,15 +484,15 @@
                 <div class="col-12">
                     <div class="partner-logo-content d-flex align-items-center justify-content-between wow fadeInUp" data-wow-delay="300ms">
                         <!-- Single Partner Logo -->
-                        <a href="#" class="partner-logo"><img src="img/core-img/p1.png" alt=""></a>
+                       <!--  <a href="#" class="partner-logo"><img src="img/core-img/p1.png" alt=""></a> -->
                         <!-- Single Partner Logo -->
-                        <a href="#" class="partner-logo"><img src="img/core-img/p2.png" alt=""></a>
+                       <!--  <a href="#" class="partner-logo"><img src="img/core-img/p2.png" alt=""></a> -->
                         <!-- Single Partner Logo -->
-                        <a href="#" class="partner-logo"><img src="img/core-img/p3.png" alt=""></a>
+                       <!--  <a href="#" class="partner-logo"><img src="img/core-img/p3.png" alt=""></a> -->
                         <!-- Single Partner Logo -->
-                        <a href="#" class="partner-logo"><img src="img/core-img/p4.png" alt=""></a>
+                      <!--   <a href="#" class="partner-logo"><img src="img/core-img/p4.png" alt=""></a> -->
                         <!-- Single Partner Logo -->
-                        <a href="#" class="partner-logo"><img src="img/core-img/p5.png" alt=""></a>
+                       <!--  <a href="#" class="partner-logo"><img src="img/core-img/p5.png" alt=""></a> -->
                     </div>
                 </div>
             </div>
@@ -726,74 +501,77 @@
     <!-- Partner Area End -->
 
     <!-- Footer Area Start -->
-    <footer class="footer-area section-padding-80-0">
+    <footer class="footer-area section-padding-60-0">
         <!-- Main Footer Area -->
         <div class="main-footer-area">
             <div class="container">
                 <div class="row align-items-baseline justify-content-between">
                     <!-- Single Footer Widget Area -->
-                    <div class="col-12 col-sm-6 col-lg-3">
+                    <div class="col-12 col-sm-6 col-lg-6">
                         <div class="single-footer-widget mb-80">
                             <!-- Footer Logo -->
-                            <a href="#" class="footer-logo"><img src="img/core-img/logo2.png" alt=""></a>
-
-                            <h4>+12 345-678-9999</h4>
-                            <span>Info.colorlib@gmail.com</span>
-                            <span>856 Cordia Extension Apt. 356, Lake Deangeloburgh, South Africa</span>
+                           <!--  <a href="#" class="footer-logo"><img src="img/core-img/logo2.png" alt=""></a> -->
+                           <br><br> 
+                           <h4>Hotelogix
+                            </h4>
+                            <h4>(+ 91) 9876543210</h4>
+                            <span>hotelogix@gmail.com</span>
+                            <span>Iskcon Cross Rd,Ramdev Nagar,Ahmedbad,Gujarat 380015</span>
                         </div>
                     </div>
 
                     <!-- Single Footer Widget Area -->
-                    <div class="col-12 col-sm-6 col-lg-3">
+                    <!-- <div class="col-12 col-sm-6 col-lg-3">
                         <div class="single-footer-widget mb-80">
-                            <!-- Widget Title -->
-                            <h5 class="widget-title">Our Blog</h5>
+                     -->        <!-- Widget Title -->
+                           <!--  <h5 class="widget-title">Our Blog</h5> -->
 
                             <!-- Single Blog Area -->
-                            <div class="latest-blog-area">
+                           <!--  <div class="latest-blog-area">
                                 <a href="#" class="post-title">Freelance Design Tricks How</a>
                                 <span class="post-date"><i class="fa fa-clock-o" aria-hidden="true"></i> Jan 02, 2019</span>
-                            </div>
+                            </div> -->
 
                             <!-- Single Blog Area -->
-                            <div class="latest-blog-area">
+                          <!--   <div class="latest-blog-area">
                                 <a href="#" class="post-title">Free Advertising For Your Online</a>
                                 <span class="post-date"><i class="fa fa-clock-o" aria-hidden="true"></i> Jan 02, 2019</span>
                             </div>
                         </div>
-                    </div>
+                    </div> -->
 
                     <!-- Single Footer Widget Area -->
-                    <div class="col-12 col-sm-4 col-lg-2">
+                    <div class="col-10 col-sm-4 col-lg-0">
                         <div class="single-footer-widget mb-80">
                             <!-- Widget Title -->
+                            <br><br>
                             <h5 class="widget-title">Links</h5>
 
                             <!-- Footer Nav -->
                             <ul class="footer-nav">
-                                <li><a href="#"><i class="fa fa-caret-right" aria-hidden="true"></i> About Us</a></li>
-                                <li><a href="#"><i class="fa fa-caret-right" aria-hidden="true"></i> Our Room</a></li>
-                                <li><a href="#"><i class="fa fa-caret-right" aria-hidden="true"></i> Career</a></li>
-                                <li><a href="#"><i class="fa fa-caret-right" aria-hidden="true"></i> FAQs</a></li>
+                                <li class="active"><a href="./index.html">Home</a></li>
+                                    <li><a href="./room.html">Rooms</a></li>
+                                    <li><a href="./about.html">About Us</a></li>
+                                    <li><a href="./images.html">Images</a></li>
                             </ul>
                         </div>
                     </div>
 
                     <!-- Single Footer Widget Area -->
-                    <div class="col-12 col-sm-8 col-lg-4">
+                    <!-- <div class="col-12 col-sm-8 col-lg-4">
                         <div class="single-footer-widget mb-80">
-                            <!-- Widget Title -->
-                            <h5 class="widget-title">Subscribe Newsletter</h5>
+                     -->        <!-- Widget Title -->
+                    <!--         <h5 class="widget-title">Subscribe Newsletter</h5>
                             <span>Subscribe our newsletter gor get notification about new updates.</span>
-
+ -->
                             <!-- Newsletter Form -->
-                            <form action="index.html" class="nl-form">
+<!--                             <form action="index.html" class="nl-form">
                                 <input type="email" class="form-control" placeholder="Enter your email...">
                                 <button type="submit"><i class="fa fa-paper-plane" aria-hidden="true"></i></button>
                             </form>
                         </div>
                     </div>
-                </div>
+ -->                </div>
             </div>
         </div>
 
@@ -822,6 +600,7 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
             </div>
         </div>
     </footer>
+    
     <!-- Footer Area End -->
 
     <!-- **** All JS Files ***** -->
